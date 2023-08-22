@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
+
+.heading{
+    width: 100%;
+    font-size: 30px;
+    margin: 0px;
+    box-shadow: 15px 15px 30px black;
+}
+
+.obj1{
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+.obj2{
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+.obj3{
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+canvas{
+    border: 5px ridge black;
+}
